@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>labelErrorMessage</name>
+   <tag></tag>
+   <elementGuidId>7899dac4-dbe9-4de7-883a-0c10d952efd5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='loginModal']/div/div/div[2]/div/form/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.login__error.alert.alert-danger.text-sm.text-center</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>dce4ec67-3652-4041-a8ea-39870222b829</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>login__error alert alert-danger text-sm text-center</value>
+      <webElementGuid>8f1f70c7-c853-49c4-b0f2-f91e4b267a55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Your Enterpriser ID or Password is incorrect (2).</value>
+      <webElementGuid>f7e175ca-7de2-4de0-aff1-b7bc21911030</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;loginModal&quot;)/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content modal-content--rounded&quot;]/div[@class=&quot;modal-body modal-section--cleaned&quot;]/div[@class=&quot;modal-section__content&quot;]/form[@class=&quot;js-login-form&quot;]/div[@class=&quot;login__error alert alert-danger text-sm text-center&quot;]</value>
+      <webElementGuid>df296c9d-793a-4bc0-b3b4-15e8706cefe0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='loginModal']/div/div/div[2]/div/form/div[2]</value>
+      <webElementGuid>a94524d4-63e1-453a-8381-d698f44f4aac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Use the country code on your Enterpriser ID. Example: I0123456A'])[1]/following::div[1]</value>
+      <webElementGuid>db87c5be-6d89-468f-a606-bd68e62ff48c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/following::div[4]</value>
+      <webElementGuid>d16c6f5f-979c-4d7a-94ad-32f19c0ea0e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enterpriser ID'])[1]/preceding::div[1]</value>
+      <webElementGuid>5a80dc99-ada2-4ea9-af00-527d734c37e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/preceding::div[2]</value>
+      <webElementGuid>44230acb-02a2-4264-9ea3-2b7ce1b158b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Your Enterpriser ID or Password is incorrect (2).']/parent::*</value>
+      <webElementGuid>03296f31-f0fb-4b47-a3d0-ddbdfb2e66c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]</value>
+      <webElementGuid>1edf747f-add7-47cd-93c9-ec233c1e02b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Your Enterpriser ID or Password is incorrect (2).' or . = 'Your Enterpriser ID or Password is incorrect (2).')]</value>
+      <webElementGuid>cda553fd-d44d-4894-98a8-609299963651</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
