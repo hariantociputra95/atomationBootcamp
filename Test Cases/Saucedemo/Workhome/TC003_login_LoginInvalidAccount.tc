@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC003_login_LoginInvalidAccount</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9ecc38f5-7ebf-4c6a-b306-60ad744254f0</testCaseGuid>
+</TestCaseEntity>

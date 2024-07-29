@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC002_login_LoginLockedAccount</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6439e8c9-a6d9-49ec-8c08-d8d705d0bddc</testCaseGuid>
+</TestCaseEntity>
