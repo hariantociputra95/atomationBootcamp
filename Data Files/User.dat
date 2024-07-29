@@ -1,21 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DataFileEntity>
    <description></description>
-   <name>User</name>
+   <name>User (1)</name>
    <tag></tag>
    <connectionProperties/>
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
-   <dataFileGUID>0f870796-70ae-48c0-a60a-17c7d55447ca</dataFileGUID>
-   <dataSourceUrl>C:\Users\haria\OneDrive\Desktop\User.xlsx</dataSourceUrl>
+   <dataFileGUID>4a52306a-73a8-40f7-baef-0694e62c0e85</dataFileGUID>
+   <dataSourceUrl>Data Files/User.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
-   <isInternalPath>false</isInternalPath>
-   <properties>
-      <entry>
-         <key>readAsString</key>
-         <value>true</value>
-      </entry>
-   </properties>
+   <isInternalPath>true</isInternalPath>
    <query></query>
    <secureUserAccount>false</secureUserAccount>
    <sheetName>Sheet1</sheetName>
